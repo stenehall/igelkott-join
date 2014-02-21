@@ -1,0 +1,20 @@
+{
+  "name": "igelkott-join",
+  "description": "Lets igelkott join channels",
+  "version": "0.1.0",
+  "main": "igelkott-join.js",
+  "dependencies": { },
+  "devDependencies": {
+    "chai": "~1.4.2",
+    "mocha": "1.3.x",
+    "igelkott": "*"
+  },
+  "scripts": {
+    "test": "mocha -R spec --recursive"
+  },
+  "repository" : {
+    "type" : "git",
+    "url" : "http://github.com/stenehall/igelkott-join.git"
+  }
+}
+
